@@ -1,5 +1,5 @@
 'use strict';
-const express = require('express');
+const express = require('express')
 const http = require('http');
 const io = require('socket.io');
 const cors = require('cors');
